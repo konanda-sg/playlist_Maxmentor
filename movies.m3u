@@ -1,6 +1,20 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="Lockdown (2026)" tvg-name="Lockdown (2026)" tvg-logo="https://image.tmdb.org/t/p/w342/e4DKX5z8xudz3ltjBJGKCWAqJL1.jpg" group-title="Movies",Lockdown (2026)
+https://pixeldrain.dev/api/file/1K8FLqo7
+
+
+#EXTINF:-1 tvg-id="The Comeback (2023)" tvg-name="The Comeback (2023)" tvg-logo="https://image.tmdb.org/t/p/w342/hNnrtEEcDE0kHnUzzUmEGzY2eny.jpg" group-title="Movies",The Comeback (2023)
+https://pixeldrain.dev/api/file/beZmAKzV
+
+
+#EXTINF:-1 tvg-id="Sew Torn (2024)" tvg-name="Sew Torn (2024)" tvg-logo="https://image.tmdb.org/t/p/w342/6N3bJq0VInPhifYml7cZ0TjRrXb.jpg" group-title="Movies",Sew Torn (2024)
+https://pixeldrain.dev/api/file/iewNrXCX
+
+
+
 #EXTINF:-1 tvg-id="Alienoid (2022)" tvg-name="Alienoid (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg" group-title="Movies",Alienoid (2022)
 https://pixeldrain.dev/api/file/pkHteRUu
 
