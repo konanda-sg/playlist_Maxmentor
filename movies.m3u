@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/jihLNEmMm5M4ZROl7s8EU4GMcKP.jpg",Now You See Me - EXTENDED (2013)
+https://pixeldrain.dev/api/file/5RKdFD4V
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/A81kDB6a1K86YLlcOtZB27jriJh.jpg",Now You See Me 2 (2016)
+https://pixeldrain.dev/api/file/XxaULzj9
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/mRWxtgMNy01gRVMZpBc4C4WKylY.jpg",Now You See Me: Now You Don’t (2025)
+https://pixeldrain.dev/api/file/XG5vCmbD
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/e1gmk77vXHavz9PFj9xt39vtyrc.jpg",Sardar (2022) UNCUT
+https://pixeldrain.dev/api/file/AL6d4gR4
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",Good Fortune (2025)
 https://pixeldrain.dev/api/file/MqToHBLt
