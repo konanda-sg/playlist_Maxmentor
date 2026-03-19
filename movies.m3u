@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",Border 2 (HD-Comming)
-https://pixeldrain.dev/api/file/
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",Border 2
+https://pixeldrain.dev/api/file/YYR6iidn
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w342/qij4kD9zQXiEByqwBuHOjWwPgCz.jpg",Dhurandhar: The Revenge (2026) V2 HQ-HDTC
 https://pixeldrain.dev/api/file/JCB7kER2
