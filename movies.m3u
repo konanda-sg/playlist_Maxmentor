@@ -754,8 +754,8 @@ https://pixeldrain.dev/api/file/3Eivofkd
 #EXTINF:-1 group-title="Movies" tvg-logo="",Stephen
 https://pixeldrain.dev/api/file/m3ZHxKLT
 
-#EXTINF:-1 group-title="Movies" tvg-logo="",Dhurandhar
-https://pixeldrain.dev/api/file/72cSoAf3
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",Dhurandhar (2025)
+https://pixeldrain.dev/api/file/6puRaYvv
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",Jatadhara
 https://pixeldrain.dev/api/file/m3ZHxKLT
