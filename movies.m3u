@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",Border 2 (HD-Comming)
+https://pixeldrain.dev/api/file/
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w342/qij4kD9zQXiEByqwBuHOjWwPgCz.jpg",Dhurandhar: The Revenge (2026) V2 HQ-HDTC
+https://pixeldrain.dev/api/file/JCB7kER2
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w342/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",One Mile: Chapter Two (2026)
+https://pixeldrain.dev/api/file/ymaXDB3L
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",Preschool (2026)
+https://pixeldrain.dev/api/file/kNksNeFu
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/jihLNEmMm5M4ZROl7s8EU4GMcKP.jpg",Now You See Me - EXTENDED (2013)
 https://pixeldrain.dev/api/file/5RKdFD4V
 
@@ -396,10 +410,6 @@ https://pixeldrain.dev/api/file/1fj373Xp
 #EXTINF:-1 group-title="Movies" tvg-logo="https://catimages.org/images/2025/04/03/Zootopia.2016..jpg",Zootopia 
 https://pixeldrain.dev/api/file/uk2emNrj
 
-
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",Border 2
-https://pixeldrain.dev/api/file/U5KF4BTb
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",Afterburn
 https://pixeldrain.dev/api/file/2J9nMDK9
