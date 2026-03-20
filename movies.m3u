@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",Agent Zeta (2026)
+https://pixeldrain.dev/api/file/JkP1CSb6
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/fKYnjoPahCSo9KJV1c5yORbthCF.jpg",Vishnu Vinyasam (2026)
+https://pixeldrain.dev/api/file/caXozhMH
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/mKSnqcEOpr2hUq7moF4bJVBGZcO.jpg",Peaky Blinders: The Immortal Man (2026)
+https://pixeldrain.dev/api/file/mq43iCEB
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",Border 2
 https://pixeldrain.dev/api/file/YYR6iidn
