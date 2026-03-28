@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/2raQOPxWxnY30x4gwg93O2eOblR.jpg",O'Romeo (2026)
+https://pixeldrain.dev/api/file/E511ycPo
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/dHxLBtHw4InwsVumnthupZYz6NM.jpg",Mardani 3 (2026)
+https://pixeldrain.dev/api/file/CffAPXkv
+
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w400/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",The Red Line (2026)
+https://pixeldrain.dev/api/file/ttvcqc1n
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",Project Hail Mary (2026) HDTC
 https://pixeldrain.dev/api/file/yr3ZhTcU
 
