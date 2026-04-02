@@ -1,6 +1,24 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w780/6KZugjxq4oTlNelzauVkIIoGj2q.jpg",Crime 101 (2026)
+https://pixeldrain.dev/api/file/Dy7NkGgA
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg",Dolly (2025)
+https://pixeldrain.dev/api/file/eufzWvEC
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/mHJEcBGEDBt1Ib7HSSaaRnNPw5T.jpg",Match Fixing (2025)
+https://pixeldrain.dev/api/file/oaTR6tmm
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/nFwtiL6qafMhn0oGkTYZQNP0WxG.jpg",Happy Patel: Khatarnak Jasoos (2026)
+https://pixeldrain.dev/api/file/Zqb5MU36
+
+
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500/2raQOPxWxnY30x4gwg93O2eOblR.jpg",O'Romeo (2026)
 https://pixeldrain.dev/api/file/E511ycPo
 
